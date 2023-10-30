@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.row{
+    --bs-gutter-x: 0 !important;
+}
+.main{
+    background-color:  #FF6B81;
+    height: 100vh;
+}
+
+
+h4{
+    color:  #FF6B81;
+}
+
+.secondrow{
+    text-align: center;
+    padding: 3%;
+}
+
+.container2{
+    background-color: rgb(241,241,241);
+}
+
+i{
+    font-size: 40px;
+}
+
+.btn1{
+    color: white;
+    background-color: #FF6B81;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+}
+
+.navicon{
+    font-size: 20px;
+}
+
+/* .navbtn{
+    margin-left: 150px;
+} */
+.bodyicon{
+    font-size: 20px;
+}
+
+.blank{
+    background-color: #FF6B81;
+    text-align: center;
+}
+
+.line{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+}
+
+.con{
+    background-color: #FF6B81;
+    color: white;
+    text-align: center;
+}
+
+.con2{
+    text-align: center;
+}
+
+.kris{
+    font-size: 25px;
+}
+
+.con1{
+    text-align: center;
+    background-color: rgb(241,241,241);
+}
+
+.con2{
+    text-align: center;
+}
+.links a i{
+    font-size:1rem;
+}
+
+.footer{
+    background-color: rgb(8,24,40);
+}
+
+@media screen and (max-width:1000px) {
+.image1{
+    display: none;
+}    
+}
+
+.cloud{
+    background-color: #FF6B81;
+    color: white;
+    border-radius: 5px;
+    /* width: 55px; */
+}
